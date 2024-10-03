@@ -1,7 +1,7 @@
 <img src="Cover_aissa_gbibar.jpg" alt="animation coding gif" />
 <h1 align="center">Hi 👋, I'm AISSA GBIBAR</h1>
 <h3 align="center">I am Aissa Gbibar, a dedicated Full Stack Developer passionate about creating synchronized web interfaces and diving deep into data analysis</h3>
-<img src="https://wakeupcoders.medium.com/python-programming-fundamentals-44198e7d62d4" alt="animation coding gif" />
+<img src="gif_image.gif" alt="animation coding gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aissa-gbibar&label=Profile%20views&color=0e75b6&style=flat" alt="aissa-gbibar" /> </p>
 
