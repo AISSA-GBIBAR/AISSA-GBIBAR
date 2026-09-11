@@ -1,16 +1,16 @@
-<img src="Cover_aissa_gbibar.jpg" alt="animation coding gif" />
+<!-- <img src="Cover_aissa_gbibar.jpg" alt="animation coding gif" /> -->
 <h1 align="center">Hi 👋, I'm AISSA GBIBAR</h1>
-<h3 align="center">I am Aissa Gbibar, a dedicated Full Stack Developer passionate about creating synchronized web interfaces and diving deep into data analysis</h3>
+<h3 align="center">I am Aissa Gbibar,</h3>
 <img src="gif_image.gif" alt="animation coding gif" width = "400" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aissa-gbibar&label=Profile%20views&color=0e75b6&style=flat" alt="aissa-gbibar" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m Data science & AI Engineer
 
 - 📝 I regularly write articles on [solideinfo](https://solideinfo.com/)
 
-- 💬 Ask me about **Laravel, React, Node.js, Python, ...**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, LLM | Python, PyTorch, TensorFlow, LangChain | Django, REST API, Next.js, SQL**
 
 - 📫 How to reach me **gbibaraissa@gmail.com**
 
